@@ -1,1 +1,1 @@
-# WP-Basic-Cleanup
+# WP Basic Cleanup
